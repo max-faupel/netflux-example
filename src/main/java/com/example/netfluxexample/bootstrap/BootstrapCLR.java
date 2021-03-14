@@ -1,7 +1,5 @@
 package com.example.netfluxexample.bootstrap;
 
-import java.util.UUID;
-
 import com.example.netfluxexample.domain.Movie;
 import com.example.netfluxexample.repository.MovieRepository;
 
